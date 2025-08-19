@@ -2,7 +2,6 @@ header {
     background-image: url('../assets/images/header-background.png');
     background-size: cover;
     background-repeat: no-repeat;
-    color: white;
     align-items: center;
     justify-items: center;
     padding: 95px;
@@ -38,7 +37,6 @@ header {
 
 .bt-2 {
     background-color: var(--primary-color);
-    color: white;
 }
 
 @media (max-width:625px) {

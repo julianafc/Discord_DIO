@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
+    color: var(--primary-color);
 }
 
 :root {
@@ -14,4 +15,8 @@
 
 .font-guy {
     font-family: var(--font-guy);
+}
+
+.white {
+    color: white;
 }
